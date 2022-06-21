@@ -1,24 +1,5 @@
-# Quasar App (qwitter)
+a responsive twitter clone built in Vus.js with help of Quasar :)
 
-A Quasar Project
+![Uploading Screenshot 2022-06-22 at 01-13-39 Quasar App.png…]()
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+hope you enjoy it.
